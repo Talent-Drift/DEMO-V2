@@ -1,0 +1,51 @@
+requisition_id,candidate_id,recruiter_name,hiring_manager_name,current_stage,stage_start_date,interview_date,feedback_date,team,job_title,role_opened_date,current_status
+REQ-2025000,CAND-100001,Emily Watson,James Anderson,Onsite Interview,2026-01-22,2026-02-02,2026-02-08,Sales,Sales Development Rep,2026-01-04,In Progress
+REQ-2025000,CAND-100002,Sarah Chen,Lisa Taylor,Offer,2026-01-18,2026-02-06,2026-02-12,Product,Product Designer,2025-12-27,In Progress
+REQ-2025000,CAND-100003,Michael Rodriguez,Lisa Taylor,Phone Screen,2026-02-06,2026-02-11,2026-02-08,Sales,Account Executive,2026-01-28,In Progress
+REQ-2025001,CAND-100004,Michael Rodriguez,Lisa Taylor,Technical Interview,2026-01-21,2026-02-06,2026-02-09,Product,Product Designer,2026-01-02,In Progress
+REQ-2025001,CAND-100005,Emily Watson,Jennifer Smith,Offer,2026-01-22,2026-02-09,2026-02-09,Product,Product Designer,2025-12-25,In Progress
+REQ-2025001,CAND-100006,David Kim,William Davis,Offer,2026-01-23,2026-02-08,2026-02-11,Marketing,Marketing Manager,2025-12-29,In Progress
+REQ-2025002,CAND-100007,Michael Rodriguez,William Davis,Offer,2026-01-22,2026-02-07,2026-02-12,Sales,Sales Development Rep,2026-01-15,In Progress
+REQ-2025002,CAND-100008,Sarah Chen,James Anderson,Technical Interview,2026-02-09,2026-02-08,2026-02-10,Product,Product Manager,2025-12-16,In Progress
+REQ-2025002,CAND-100009,Sarah Chen,James Anderson,Offer,2026-01-30,2026-02-08,2026-02-08,Marketing,Content Writer,2026-01-29,In Progress
+REQ-2025003,CAND-100010,David Kim,Lisa Taylor,Phone Screen,2026-01-21,2026-02-10,2026-02-12,Marketing,Content Writer,2026-01-03,In Progress
+REQ-2025003,CAND-100011,Michael Rodriguez,Jennifer Smith,Offer,2026-02-04,2026-02-04,2026-02-07,Product,Product Manager,2025-12-20,In Progress
+REQ-2025003,CAND-100012,Michael Rodriguez,William Davis,Phone Screen,2026-01-31,2026-02-06,2026-02-12,Sales,Sales Development Rep,2026-01-13,In Progress
+REQ-2025004,CAND-100013,Michael Rodriguez,William Davis,Offer,2026-01-22,2026-02-04,2026-02-12,Sales,Account Executive,2026-01-28,In Progress
+REQ-2025004,CAND-100014,Emily Watson,William Davis,Phone Screen,2026-02-11,2026-02-07,2026-02-10,Sales,Sales Development Rep,2026-01-26,In Progress
+REQ-2025004,CAND-100015,Sarah Chen,Lisa Taylor,Technical Interview,2026-01-17,2026-02-07,2026-02-07,Marketing,Marketing Manager,2026-01-25,In Progress
+REQ-2025005,CAND-100016,Emily Watson,James Anderson,Onsite Interview,2026-01-13,2026-02-10,2026-02-07,Marketing,Marketing Manager,2025-12-15,In Progress
+REQ-2025005,CAND-100017,Sarah Chen,Jennifer Smith,Offer,2026-01-29,2026-02-04,2026-02-09,Engineering,Software Engineer,2025-12-14,In Progress
+REQ-2025005,CAND-100018,Sarah Chen,James Anderson,Technical Interview,2026-01-29,2026-02-03,2026-02-11,Product,Product Manager,2025-12-23,In Progress
+REQ-2025006,CAND-100019,Sarah Chen,Jennifer Smith,Offer,2026-01-13,2026-02-10,2026-02-09,Product,Product Designer,2026-01-16,In Progress
+REQ-2025006,CAND-100020,Michael Rodriguez,Lisa Taylor,Technical Interview,2026-02-08,2026-02-09,2026-02-08,Sales,Sales Development Rep,2025-12-19,In Progress
+REQ-2025006,CAND-100021,Sarah Chen,James Anderson,Technical Interview,2026-01-20,2026-02-03,2026-02-11,Sales,Sales Development Rep,2025-12-15,In Progress
+REQ-2025007,CAND-100022,Emily Watson,Jennifer Smith,Onsite Interview,2026-01-30,2026-02-03,2026-02-11,Product,Product Designer,2025-12-26,In Progress
+REQ-2025007,CAND-100023,Sarah Chen,Lisa Taylor,Onsite Interview,2026-01-14,2026-02-10,2026-02-07,Marketing,Content Writer,2026-01-01,In Progress
+REQ-2025007,CAND-100024,David Kim,James Anderson,Phone Screen,2026-01-13,2026-02-08,2026-02-09,Sales,Sales Development Rep,2025-12-20,In Progress
+REQ-2025008,CAND-100025,Emily Watson,James Anderson,Onsite Interview,2026-01-25,2026-02-05,2026-02-12,Sales,Sales Development Rep,2026-01-29,In Progress
+REQ-2025008,CAND-100026,Emily Watson,William Davis,Onsite Interview,2026-02-01,2026-02-03,2026-02-12,Marketing,Content Writer,2025-12-27,In Progress
+REQ-2025008,CAND-100027,David Kim,William Davis,Onsite Interview,2026-01-18,2026-02-06,2026-02-07,Sales,Sales Development Rep,2026-01-23,In Progress
+REQ-2025009,CAND-100028,David Kim,Jennifer Smith,Offer,2026-02-08,2026-02-09,2026-02-09,Product,Product Manager,2026-01-10,In Progress
+REQ-2025009,CAND-100029,Sarah Chen,Lisa Taylor,Phone Screen,2026-01-18,2026-02-03,2026-02-07,Sales,Account Executive,2026-01-18,In Progress
+REQ-2025009,CAND-100030,David Kim,William Davis,Offer,2026-01-26,2026-02-04,2026-02-09,Product,Product Manager,2025-12-24,In Progress
+REQ-2025010,CAND-100031,Emily Watson,James Anderson,Phone Screen,2026-01-24,2026-02-06,2026-02-09,Sales,Sales Development Rep,2026-02-01,In Progress
+REQ-2025010,CAND-100032,Michael Rodriguez,James Anderson,Offer,2026-01-16,2026-02-03,2026-02-11,Marketing,Marketing Manager,2025-12-24,In Progress
+REQ-2025010,CAND-100033,David Kim,Jennifer Smith,Offer,2026-02-11,2026-02-07,2026-02-11,Engineering,Senior Engineer,2026-01-01,In Progress
+REQ-2025011,CAND-100034,Sarah Chen,James Anderson,Offer,2026-02-07,2026-02-06,2026-02-12,Product,Product Designer,2026-01-17,In Progress
+REQ-2025011,CAND-100035,Michael Rodriguez,James Anderson,Onsite Interview,2026-02-01,2026-02-10,2026-02-10,Sales,Account Executive,2026-01-06,In Progress
+REQ-2025011,CAND-100036,Michael Rodriguez,Lisa Taylor,Technical Interview,2026-02-08,2026-02-03,2026-02-07,Sales,Account Executive,2026-02-01,In Progress
+REQ-2025012,CAND-100037,Michael Rodriguez,William Davis,Phone Screen,2026-01-30,2026-02-07,2026-02-10,Engineering,Software Engineer,2026-01-17,In Progress
+REQ-2025012,CAND-100038,Emily Watson,James Anderson,Technical Interview,2026-01-21,2026-02-02,2026-02-09,Engineering,Senior Engineer,2025-12-16,In Progress
+REQ-2025012,CAND-100039,Emily Watson,James Anderson,Offer,2026-02-06,2026-02-04,2026-02-11,Engineering,Senior Engineer,2026-01-01,In Progress
+REQ-2025013,CAND-100040,Emily Watson,Lisa Taylor,Phone Screen,2026-02-01,2026-02-03,2026-02-09,Engineering,Software Engineer,2026-01-24,In Progress
+REQ-2025013,CAND-100041,Sarah Chen,Lisa Taylor,Onsite Interview,2026-01-18,2026-02-08,2026-02-12,Engineering,Senior Engineer,2025-12-21,In Progress
+REQ-2025013,CAND-100042,Michael Rodriguez,William Davis,Offer,2026-01-20,2026-02-08,2026-02-08,Marketing,Marketing Manager,2026-01-15,In Progress
+REQ-2025014,CAND-100043,David Kim,Jennifer Smith,Phone Screen,2026-02-03,2026-02-05,2026-02-12,Product,Product Designer,2026-01-23,In Progress
+REQ-2025014,CAND-100044,Emily Watson,Lisa Taylor,Phone Screen,2026-01-18,2026-02-05,2026-02-10,Marketing,Content Writer,2026-02-02,In Progress
+REQ-2025014,CAND-100045,Sarah Chen,Lisa Taylor,Technical Interview,2026-02-09,2026-02-07,2026-02-09,Product,Product Designer,2025-12-16,In Progress
+REQ-2025015,CAND-100046,Sarah Chen,William Davis,Onsite Interview,2026-01-28,2026-02-04,2026-02-07,Marketing,Marketing Manager,2026-01-26,In Progress
+REQ-2025015,CAND-100047,Michael Rodriguez,James Anderson,Phone Screen,2026-01-27,2026-02-11,2026-02-09,Product,Product Manager,2025-12-18,In Progress
+REQ-2025015,CAND-100048,Michael Rodriguez,James Anderson,Phone Screen,2026-01-30,2026-02-09,2026-02-08,Engineering,Senior Engineer,2026-01-22,In Progress
+REQ-2025016,CAND-100049,David Kim,Jennifer Smith,Phone Screen,2026-02-06,2026-02-03,2026-02-12,Sales,Account Executive,2026-01-30,In Progress
+REQ-2025016,CAND-100050,David Kim,James Anderson,Onsite Interview,2026-02-02,2026-02-02,2026-02-07,Sales,Account Executive,2026-02-01,In Progress
